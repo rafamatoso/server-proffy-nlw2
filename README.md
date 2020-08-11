@@ -10,7 +10,7 @@
 <img alt="Top Used Language" src="https://img.shields.io/github/languages/top/rafamatoso/proffy-nlw2?color=7259c1">
 </p>
 
-<p align="center">Desenvolvimento da aplicação <b>Proffy</b> criada pela <b><a href="https://rocketseat.com.br/" target="blank">Rocketseat</a></b>.<br /> Repositório com o servidor Node para Deploy..
+<p align="center">Desenvolvimento da aplicação <b>Proffy</b> criada pela <b><a href="https://rocketseat.com.br/" target="blank">Rocketseat</a></b>.<br /> Repositório com o servidor <b>Node</b> para Deploy.
 
 ---
 
