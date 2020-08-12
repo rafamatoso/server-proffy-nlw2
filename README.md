@@ -19,3 +19,9 @@ The project was divided into:
 - [Web Application](https://github.com/rafamatoso/proffy-nlw2/tree/master/web)
 - [Mobile Application](https://github.com/rafamatoso/proffy-nlw2/tree/master/mobile)
 - [Server](https://github.com/rafamatoso/proffy-nlw2/tree/master/server)
+
+---
+
+[![Linkedin: rafamatoso](https://img.shields.io/badge/-rafamatoso-black?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafamatoso/)](https://www.linkedin.com/in/rafamatoso/)
+[![Instagram: oirafamatoso](https://img.shields.io/badge/-oirafamatoso-black?style=flat&logo=Instagram&link=https://www.instagram.com/oirafamatoso/)](https://www.instagram.com/oirafamatoso/)
+[![Twitter: devrm](https://img.shields.io/badge/-devrm-black?style=flat&logo=twitter&link=https://twitter.com/devrm95572079)](https://twitter.com/devrm95572079)
